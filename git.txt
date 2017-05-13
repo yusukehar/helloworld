@@ -3,3 +3,7 @@ aaaaaaaaaaaaaa
 bbbbbbbbbbb
 
 ddddddddddddddd
+
+
+ROR チュートリアル　Michael Hartle
+https://railstutorial.jp/chapters/beginning?version=5.0#code-hello_root_route
